@@ -1,6 +1,6 @@
 {
   "name": "import-momentjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "authors": [
     "Jalal Fathi <jfathi.mail@gmail.com> (http://jalal.io)"
   ],
@@ -23,7 +23,5 @@
   ],
   "dependencies": {
     "momentjs": "~2.10.6"
-  },
-  "devDependencies": {
   }
 }
